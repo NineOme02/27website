@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700,500,800|Comfortaa:400");
 .nav{
     list-style-type: none ;
     background-color: #6f7256;
@@ -79,4 +80,25 @@ button{
     transition: all 0.25s ease;
     left: 50%;
     transform: translateX(-50%);
+}
+.frame-1{
+    align-items: flex-start;
+    border: 1px none;
+    display: flex;
+    height: 120px;
+    padding: 24px 29px;
+    width: 1080px;
+}
+.nike-logo-1{
+    align-self: flex-end;
+    height: 71px;
+    margin-left: 32px;
+    object-fit: cover;
+    width: 126px;
+}
+.overlap-group{
+    height: 44px;
+    margin-top: 2px;
+    position: relative;
+    width: 448px;
 }
