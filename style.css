@@ -1,35 +1,39 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700,500,800|Comfortaa:400");
-.nav{
-    list-style-type: none ;
+
+.nav {
+    list-style-type: none;
     background-color: #6f7256;
     text-align: center;
 }
 
-.nav li{
+.nav li {
     display: inline-block;
     padding: 10px;
     font-size: 15px;
 }
 
-#bgurl{
+#bgurl {
     text-align: center;
     object-fit: contain;
     border-radius: 100%;
 }
-#bgurl img{
+
+#bgurl img {
     width: 300px;
     height: 339px;
     left: 362px;
     top: 55px;
     border-radius: 100%;
 
-    
+
 }
-h2{
+
+h2 {
     font-size: 30px;
     text-align: center;
 }
-#imgtel img{
+
+#imgtel img {
     text-align: center;
     object-fit: contain;
     width: 75px;
@@ -38,17 +42,20 @@ h2{
     vertical-align: middle;
     text-align: justify;
 }
-h3{
+
+h3 {
     display: inline-block;
     padding: 200x;
     font-size: 20px;
     text-align: center;
     vertical-align: middle;
 }
+
 body {
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
 }
-button{
+
+button {
     padding: 20px 50px;
     font-size: 1.5rem;
     cursor: pointer;
@@ -57,17 +64,20 @@ button{
     position: relative;
     margin: 20px;
     transition: all 0.25s ease;
-    
+
 }
-.btn-1{
+
+.btn-1 {
     color: black;
     border-radius: 30px;
     transition: all 0.25s ease;
 }
-.btn-1:hover::after{
+
+.btn-1:hover::after {
     width: 100%;
 }
-.btn-1::after{
+
+.btn-1::after {
     content: "";
     position: absolute;
     border-radius: inherit;
@@ -81,7 +91,8 @@ button{
     left: 50%;
     transform: translateX(-50%);
 }
-.frame-1{
+
+.frame-1 {
     align-items: flex-start;
     border: 1px none;
     display: flex;
@@ -89,16 +100,178 @@ button{
     padding: 24px 29px;
     width: 1080px;
 }
-.nike-logo-1{
-    align-self: flex-end;
-    height: 71px;
-    margin-left: 32px;
-    object-fit: cover;
+
+.nike-logo-1 {
+    position: absolute;
     width: 126px;
+    height: 71px;
+    left: 61px;
+    top: 25px;
 }
-.overlap-group{
+
+.overlap-group {
     height: 44px;
     margin-top: 2px;
     position: relative;
     width: 448px;
+}
+
+.Textnike {
+    position: absolute;
+    width: 86px;
+    height: 44px;
+    left: 187px;
+    top: 27px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+}
+
+.features {
+    position: absolute;
+    width: 142px;
+    height: 29px;
+    left: 269px;
+    top: 40px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+}
+
+.pricing {
+    position: absolute;
+    width: 142px;
+    height: 29px;
+    left: 377px;
+    top: 40px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+}
+
+.community {
+    position: absolute;
+    width: 142px;
+    height: 29px;
+    left: 493px;
+    top: 40px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+}
+
+.login {
+    position: absolute;
+    width: 113px;
+    height: 28px;
+    left: 747px;
+    top: 35px;
+
+    background: #D9D9D9;
+    border-radius: 10px;
+
+
+    /* Login */
+
+
+    position: absolute;
+    width: 59px;
+    height: 24px;
+    left: 774px;
+    top: 37px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+}
+
+.register {
+    position: absolute;
+    width: 113px;
+    height: 28px;
+    right: 882px;
+    top: 35px;
+
+    background: #4891FF;
+    border-radius: 10px;
+
+
+    /* Register */
+
+
+    position: absolute;
+    width: 88px;
+    height: 24px;
+    left: 895px;
+    top: 36px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+}
+
+.h1 {
+    position: absolute;
+    left: 5.27%;
+    right: 44.88%;
+    top: 2.39%;
+    bottom: 80.89%;
+
+    /* Hero H1 */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 80px;
+    /* or 143% */
+
+}
+
+.nike-dunk-low {
+    position: absolute;
+    width: 389px;
+    height: 348px;
+    right: 50px;
+    top: 74px;
 }

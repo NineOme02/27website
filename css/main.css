@@ -1,0 +1,334 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+.v1_82 {
+  width: 100%;
+  height: 1440px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v4_83 {
+  width: 100%;
+  height: 104px;
+  background: url("../v4_83.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.v4_84 {
+  width: 126px;
+  height: 71px;
+  background: url("../images/v4_84.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  left: 61px;
+  overflow: hidden;
+}
+
+.v4_85 {
+  width: 86px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 27px;
+  left: 187px;
+  font-family: Montserrat;
+  font-weight: ExtraBold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v8_86 {
+  width: 142px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 40px;
+  left: 269px;
+  font-family: Montserrat;
+  font-weight: ExtraBold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v8_87 {
+  width: 142px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 40px;
+  left: 377px;
+  font-family: Montserrat;
+  font-weight: ExtraBold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v8_88 {
+  width: 142px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 40px;
+  left: 493px;
+  font-family: Montserrat;
+  font-weight: ExtraBold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v8_90 {
+  width: 113px;
+  height: 28px;
+  background: rgba(72, 145, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 882px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+
+.v8_91 {
+  width: 113px;
+  height: 28px;
+  background: rgba(217, 217, 217, 1);
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 747px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+
+.v8_92 {
+  width: 59px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 37px;
+  left: 774px;
+  font-family: Montserrat;
+  font-weight: ExtraBold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v8_94 {
+  width: 88px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 36px;
+  left: 895px;
+  font-family: Montserrat;
+  font-weight: ExtraBold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v11_23 {
+  width: 100%;
+  height: 242px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1198px;
+  left: 1px;
+  overflow: hidden;
+}
+
+.v11_24 {
+  width: 156px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 121px;
+  left: 262px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v11_25 {
+  width: 301px;
+  color: rgba(0, 0, 0, 0.800000011920929);
+  position: absolute;
+  top: 119px;
+  left: 654px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: right;
+}
+
+.v11_26 {
+  width: 173px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 120px;
+  left: 372px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v11_27 {
+  width: 173px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 120px;
+  left: 481px;
+  font-family: Montserrat;
+  font-weight: Bold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+
+.name {
+  color: #fff;
+}
+
+.v11_29 {
+  width: 100%;
+  height: 613px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 585px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v11_30 {
+  width: 702px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 36px;
+  left: 75px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v11_31 {
+  width: 353px;
+  height: 124px;
+  background: url("../images/v11_31.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 198px;
+  left: 75px;
+  overflow: hidden;
+}
+
+.name {
+  color: #fff;
+}
+
+.name {
+  color: #fff;
+}
+
+.v11_34 {
+  width: 353px;
+  height: 124px;
+  background: url("../images/v11_34.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 210px;
+  left: 598px;
+  overflow: hidden;
+}
+
+.name {
+  color: #fff;
+}
+
+.name {
+  color: #fff;
+}
+
+.v11_37 {
+  width: 100%;
+  height: 481px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 104px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v11_43 {
+  width: 510px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 11px;
+  left: 54px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 56px;
+  opacity: 1;
+  text-align: left;
+}
+
+.name {
+  color: #fff;
+}
+
+.nike-logo-1 {
+  position: absolute;
+  width: 126px;
+  height: 71px;
+  left: 61px;
+  top: 25px;
+}
+
+.dunk-low {
+  position: absolute;
+  width: 450px;
+  height: 450px;
+  left: 527px;
+  top: -113px;
+}
